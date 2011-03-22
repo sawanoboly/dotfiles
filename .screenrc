@@ -1,0 +1,7 @@
+escape ^z^z
+startup_message off
+vbell off
+autodetach      on
+defscrollback   3000
+
+hardstatus alwayslastline "%w"
