@@ -1,3 +1,4 @@
 #!/bin/bash
 
-cp ./.screenrc ~/
+# cp ./.screenrc ~/
+cp tmux/tmux.conf ~/.tmux.conf
